@@ -26,4 +26,6 @@ This is an ongoing project and the code it's not finished. I am learning as i do
 ![ESP32TANK(1)](https://user-images.githubusercontent.com/16311096/150753522-0e6289ba-77df-4ef5-adce-b3d14c208d27.jpg)
 ![IMG_20220105_191121 (1)](https://user-images.githubusercontent.com/16311096/150753539-d7de9401-07fa-4d01-aed4-9a9ded117269.jpg)
 
+
+1-This code is intended to be used as reference,  and i am not responsible / liable if you use it in any kind of way.
 This is an ongoing project and the code it's not finished. I am learning as i do.
